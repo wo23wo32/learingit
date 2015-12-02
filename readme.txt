@@ -1,3 +1,3 @@
 winter is coming!
 Hello world!
-this is a new branch and merge!
+this is a new branch & merge!
